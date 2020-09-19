@@ -1,2 +1,2 @@
 # f1manager
-formula one manager game
+Formula 1 Manager Game
